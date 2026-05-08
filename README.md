@@ -1,4 +1,4 @@
-# 📊 Financial Econometrics — Group Work Projects
+# 📊 Financial Econometrics —  Projects
 
 **Author:** Lenon Marengwa
 **Course:** Financial Econometrics (HASTS 201)
@@ -7,7 +7,7 @@
 
 ## Repository Overview
 
-This repository contains two group work projects completed as part of a Financial Econometrics course. Both projects apply quantitative time series methods to real equity data from Apple Inc. (AAPL) and Microsoft Corp. (MSFT), sourced from public financial markets (daily frequency, 2018–2025).
+This repository contains two  projects completed as part of a Financial Econometrics course. Both projects apply quantitative time series methods to real equity data from Apple Inc. (AAPL) and Microsoft Corp. (MSFT), sourced from public financial markets (daily frequency, 2018–2025).
 
 ---
 
